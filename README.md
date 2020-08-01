@@ -1,9 +1,22 @@
-### Greeting Ahsanul Intishor ### 👋
+### Greeting Ahsanul Intishor 👋
+
+## I am a Caver and a Full Stack developer.
+
+- 📖 Fast learner
+- 🌟 I’m currently learning everything (devops,backend,frontend)
+- 💡 Like to try new technology
+- 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈
 
 ### Contact
 
 [<img align="left" alt="auronsan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill:#34c9f5" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="data:image/png;base64,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" style="fill:#34c9f5" />][linkedin]
+
+<br />
+
+---
+
+<img align="left" alt="auronsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=auronsan&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://auronsan.github.io
 [linkedin]: https://linkedin.com/in/auronsan
