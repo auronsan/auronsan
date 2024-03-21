@@ -16,7 +16,9 @@
 
 ---
 
-<img align="left" alt="auronsan's Github Stats" src="https://github-readme-stats-three-lyart-71.vercel.app/api?username=auronsan&show_icons=true&hide_border=true&count_private=true" />
+
 
 [website]: https://auronsan.github.io
 [linkedin]: https://linkedin.com/in/auronsan
+
+[comment]: <> (<img align="left" alt="auronsan's Github Stats" src="https://github-readme-stats-three-lyart-71.vercel.app/api?username=auronsan&show_icons=true&hide_border=true&count_private=true" />)
